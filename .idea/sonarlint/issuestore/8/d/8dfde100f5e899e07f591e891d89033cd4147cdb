@@ -1,0 +1,17 @@
+
+akotlin:S63106"Avoid hardcoded dispatchers.(¬”ªØ8©•¼¹ñ1J$eb0c0e7b-8616-4181-82b1-87ca0326ec01
+akotlin:S6310@"Avoid hardcoded dispatchers.(¬”ªØ8©•¼¹ñ1J$926e9acb-2832-45b3-96f8-0c70f162f98b
+akotlin:S6310J"Avoid hardcoded dispatchers.(¬”ªØ8©•¼¹ñ1J$d1470a09-a422-4175-ab36-b1006c4f5363
+akotlin:S6310"Avoid hardcoded dispatchers.(Øêıü8©•¼¹ñ1J$7dea3803-ba7d-4b9c-b0a0-b1c7f8f068fe
+akotlin:S6310&"Avoid hardcoded dispatchers.(Øêıü8©•¼¹ñ1J$646548e8-01b1-4a18-b941-64019c61d908
+akotlin:S63100"Avoid hardcoded dispatchers.(äÃúú8©•¼¹ñ1J$485baecd-873b-4549-8850-30d4995cde67
+akotlin:S6310;"Avoid hardcoded dispatchers.(äÃúú8©•¼¹ñ1J$2140d814-5902-4f21-8c64-366bae11d458
+akotlin:S6310E"Avoid hardcoded dispatchers.(äÃúú8ª•¼¹ñ1J$7fa7beb7-20de-4647-a4c1-c36f0a4e6535
+–kotlin:S6311"QRemove this dispatcher. It is pointless when used with only suspending functions.(Øêıü8ª•¼¹ñ1J$34e8332b-4669-4bbf-bf7d-1b480e20b360
+–kotlin:S6311&"QRemove this dispatcher. It is pointless when used with only suspending functions.(Øêıü8ª•¼¹ñ1J$82ac4e0c-f3b5-42cd-a434-97581779ac7c
+–kotlin:S63110"QRemove this dispatcher. It is pointless when used with only suspending functions.(äÃúú8ª•¼¹ñ1J$4e3e8f7d-f3c5-48b9-b33c-9c923f3ec6c6
+–kotlin:S6311;"QRemove this dispatcher. It is pointless when used with only suspending functions.(äÃúú8ª•¼¹ñ1J$7fa1bf51-decf-4b34-9bd2-e3bd6db14ef0
+–kotlin:S6311E"QRemove this dispatcher. It is pointless when used with only suspending functions.(äÃúú8ª•¼¹ñ1J$511a95a7-41c2-4c9d-b217-fb317ee5bf61
+vkotlin:S14811"1Remove this unused "foundContact" local variable.(ÎÇÆù8º•¼¹ñ1J$46395184-11bd-4296-b520-54155ee0201c
+}kotlin:S1481<"3Remove this unused "allContactsASC" local variable.(ÜÛ²øÿÿÿÿ8º•¼¹ñ1J$f635f5c9-14a9-4e99-bead-b268e6527f5b
+ykotlin:S1481F"4Remove this unused "allContactsDESC" local variable.(â·ÑÊ8º•¼¹ñ1J$49c1b5dc-745e-47b2-8394-90c4f1c3edc2

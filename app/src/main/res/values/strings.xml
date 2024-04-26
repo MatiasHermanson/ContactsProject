@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RoomDemo</string>
+    <string name="product_id">Product ID</string>
+    <string name="not_assigned">Not Assigned</string>
+    <string name="product_name">Product Name</string>
+    <string name="add_text">Add</string>
+    <string name="find_text">Find</string>
+    <string name="delete_text">Delete</string>
+    <string name="product_quantity">Product Quantity</string>
+    <string name="enter_name" />
+    <string name="enter_phone_number" />
+    <string name="add" />
+    <string name="find" />
+    <string name="asc" />
+    <string name="desc" />
+    <string name="name" />
+    <string name="phone_number" />
+    <string name="ASC" />
+    <string name="DESC" />
+    <string name="contactName" />
+    <string name="contactNumber" />
+</resources>
